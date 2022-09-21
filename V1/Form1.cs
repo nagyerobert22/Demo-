@@ -9,7 +9,14 @@ namespace V1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-           button_start.Enabled = false;    
+           button_start.Enabled = false;
+            //note idk
+           
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            textBox1.Text = "SANDU E GAY";
         }
     }
 }
