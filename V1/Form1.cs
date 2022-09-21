@@ -17,6 +17,7 @@ namespace V1
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             textBox1.Text = "SANDU E GAY";
+            textBox1.Name = "text_box_1";
         }
     }
 }
