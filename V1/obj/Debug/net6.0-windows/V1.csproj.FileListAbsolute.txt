@@ -1,0 +1,17 @@
+D:\Robby\Banking app\Demo-\V1\bin\Debug\net6.0-windows\V1.exe
+D:\Robby\Banking app\Demo-\V1\bin\Debug\net6.0-windows\V1.deps.json
+D:\Robby\Banking app\Demo-\V1\bin\Debug\net6.0-windows\V1.runtimeconfig.json
+D:\Robby\Banking app\Demo-\V1\bin\Debug\net6.0-windows\V1.dll
+D:\Robby\Banking app\Demo-\V1\bin\Debug\net6.0-windows\V1.pdb
+D:\Robby\Banking app\Demo-\V1\obj\Debug\net6.0-windows\V1.csproj.AssemblyReference.cache
+D:\Robby\Banking app\Demo-\V1\obj\Debug\net6.0-windows\V1.Form1.resources
+D:\Robby\Banking app\Demo-\V1\obj\Debug\net6.0-windows\V1.csproj.GenerateResource.cache
+D:\Robby\Banking app\Demo-\V1\obj\Debug\net6.0-windows\V1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Robby\Banking app\Demo-\V1\obj\Debug\net6.0-windows\V1.AssemblyInfoInputs.cache
+D:\Robby\Banking app\Demo-\V1\obj\Debug\net6.0-windows\V1.AssemblyInfo.cs
+D:\Robby\Banking app\Demo-\V1\obj\Debug\net6.0-windows\V1.csproj.CoreCompileInputs.cache
+D:\Robby\Banking app\Demo-\V1\obj\Debug\net6.0-windows\V1.dll
+D:\Robby\Banking app\Demo-\V1\obj\Debug\net6.0-windows\refint\V1.dll
+D:\Robby\Banking app\Demo-\V1\obj\Debug\net6.0-windows\V1.pdb
+D:\Robby\Banking app\Demo-\V1\obj\Debug\net6.0-windows\V1.genruntimeconfig.cache
+D:\Robby\Banking app\Demo-\V1\obj\Debug\net6.0-windows\ref\V1.dll
